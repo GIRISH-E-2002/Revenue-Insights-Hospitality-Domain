@@ -200,7 +200,7 @@ __Dashboard Design__
 
 ### AUTHOR
 <hr>
-<strong>Shehryar Gondal</strong>
+<strong>Girish.E</strong>
 
 
 You can get in touch with me on my LinkedIn Profile:<br>

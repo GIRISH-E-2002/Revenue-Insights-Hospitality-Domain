@@ -184,7 +184,7 @@ As, there are __26 measures__. To check the detail of all measures visit __metri
 __Dashboard Design__ 
 <br>
 
-![image](Images/Dashboard_design.PNG)
+![image](Images/Dashboard_design.png) 
 <br>
 
 # <h2 id="link5">Dashboard Insights</h2>
